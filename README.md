@@ -7,3 +7,8 @@
 - Current location is being stored in Redux Store.
 
 ## Results:
+<img src="https://github.com/pie3phobic/ReactNative-Expo-WeatherApp/assets/115817261/47436ba3-eb4f-4b1c-a683-af5e98e7845e" width="300">
+<img src="https://github.com/pie3phobic/ReactNative-Expo-WeatherApp/assets/115817261/4a773cd7-2fe4-4858-8bfe-49df937e95e8" width="300">
+<img src="https://github.com/pie3phobic/ReactNative-Expo-WeatherApp/assets/115817261/0fed7453-75dc-4708-9029-d670de34031e" width="300">
+<img src="https://github.com/pie3phobic/ReactNative-Expo-WeatherApp/assets/115817261/bdde0aef-6117-4b97-8c6f-fb6ab498b43a" width="300">
+
