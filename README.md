@@ -1,4 +1,4 @@
-## This is a weather app created with React Native, Expo, Google Autocomplete.
+## This is a weather app created with React Native, Expo, Google Autocomplete and TailwindCSS.
 
 ## Main Features:
 - On the top: input field for city/location with Google Autocomplete
